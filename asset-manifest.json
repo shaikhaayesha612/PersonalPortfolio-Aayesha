@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PersonalPortfolio-Aayesha/static/css/main.50135c4e.css",
-    "main.js": "/PersonalPortfolio-Aayesha/static/js/main.9abdcc5b.js",
+    "main.css": "/PersonalPortfolio-Aayesha/static/css/main.3d361292.css",
+    "main.js": "/PersonalPortfolio-Aayesha/static/js/main.a33fe271.js",
     "static/js/787.1ed0c42c.chunk.js": "/PersonalPortfolio-Aayesha/static/js/787.1ed0c42c.chunk.js",
     "static/media/fa-solid-900.ttf": "/PersonalPortfolio-Aayesha/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/fa-brands-400.ttf": "/PersonalPortfolio-Aayesha/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/PersonalPortfolio-Aayesha/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
     "static/media/fa-v4compatibility.woff2": "/PersonalPortfolio-Aayesha/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/PersonalPortfolio-Aayesha/index.html",
-    "main.50135c4e.css.map": "/PersonalPortfolio-Aayesha/static/css/main.50135c4e.css.map",
-    "main.9abdcc5b.js.map": "/PersonalPortfolio-Aayesha/static/js/main.9abdcc5b.js.map",
+    "main.3d361292.css.map": "/PersonalPortfolio-Aayesha/static/css/main.3d361292.css.map",
+    "main.a33fe271.js.map": "/PersonalPortfolio-Aayesha/static/js/main.a33fe271.js.map",
     "787.1ed0c42c.chunk.js.map": "/PersonalPortfolio-Aayesha/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50135c4e.css",
-    "static/js/main.9abdcc5b.js"
+    "static/css/main.3d361292.css",
+    "static/js/main.a33fe271.js"
   ]
 }
